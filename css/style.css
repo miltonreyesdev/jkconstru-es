@@ -440,9 +440,8 @@ footer {
     box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.4);
 }
 
-.whatsapp-float svg {
-    width: 30px;
-    height: 30px;
+.whatsapp-float i {
+    font-size: 30px;
 }
 
 @keyframes pulse {
@@ -521,9 +520,8 @@ footer {
         right: 20px;
     }
 
-    .whatsapp-float svg {
-        width: 28px;
-        height: 28px;
+    .whatsapp-float i {
+        font-size: 28px;
     }
 
 }
