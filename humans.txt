@@ -1,0 +1,14 @@
+/* TEAM */
+Desenvolvimento: Milton Reyes (SEO & Web)
+Empresa: JK Construções e Serviços LTDA
+Responsável: Celso Prates
+Localização: Frederico Westphalen - RS, Brasil
+Contato: celsoprates59@gmail.com
+
+/* SITE INFO */
+Tecnologia: HTML5, CSS3, JavaScript
+Hospedagem: jkconstrutorabr.com.br
+Data de publicação: 31/10/2025
+
+/* SEO */
+Otimização local e técnica para Google Brasil 🇧🇷
